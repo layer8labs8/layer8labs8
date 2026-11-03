@@ -1,6 +1,4 @@
-<h2 align="center">Hi, I'm Ruslan</h2>
-
-<p align="center">Cyber security · Network administration · Open source tools</p>
+## Hi, I'm Ruslan
 
 I studied cyber security engineering, and network administration on top of that. I build open source tools, mostly around AI, security, and infrastructure, and I start new ones as ideas come.
 
